@@ -1,0 +1,4 @@
+name = input('Как вас зовут? ')
+name2 = input('Как ваша фамилия? ')
+name3 = input('Как ваше отчество? ')
+print (name, name2, name3, sep='-')
