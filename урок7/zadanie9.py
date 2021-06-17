@@ -1,0 +1,8 @@
+flag=0
+n=int(input())
+for i in range(n):
+    number=int(input())
+    if number%2!=0:
+        flag=1
+if flag!=0:
+    print ('YES')
